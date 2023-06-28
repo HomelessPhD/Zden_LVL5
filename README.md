@@ -17,19 +17,32 @@ Here i guess, only ```Sum of two consecutive following rectangles areas creates 
 Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
 
 
-But later, after several years of puzzles being unsolved, the author released the update for puzzle with a statement: 
+But later, after several years of puzzle being unsolved, the author released the update for puzzle with a statement: 
 "UNSOLVED for over 3 years because the original release was uncomplete! Relaunched on 12th of December 2021. My excuses to everyone!
 
 Past hint.
 (clarity edit: sum of two ~~consecutive~~ following rectangles...)
 "
+![FIXED LVL5 puzzle](https://github.com/HomelessPhD/Zden_LVL5/blob/c82beb668696d7f59aca16465ce408747a240b88/crypto5fix.png)
 
-He crossed out word ```consecutive``` from the hint AND added several elements to the picture: white line under the recta
+He crossed out word ```consecutive``` from the hint AND added several elements to the picture: white line under the rectangle #40 with 17
+pixel length, white line under the rectangle #53 with 6 pixel length, the minipuzzle-HINT in the left bottom corner of the image that is 
+shown below:
+
+![LVL5 interesting spots](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_valuableSpots.png)
 
 
+## HINTS
 
+Original hint from twitter with a correction given on the author site:
 
+ Sum of two ~~consecutive~~ following rectangles areas creates one byte of the private key.
+Apply more operations to obtain the results in byte range.
 
+Hint mini-puzzle from the picture:
+![mini-puzzle hint](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_BigHint.png)
+
+<TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
 
 ## P.S.
 
