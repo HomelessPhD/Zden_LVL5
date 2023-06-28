@@ -36,8 +36,8 @@ shown below:
 
 Original hint from twitter with a correction given on the author site:
 
- Sum of two ~~consecutive~~ following rectangles areas creates one byte of the private key.
-Apply more operations to obtain the results in byte range.
+ **Sum of two ~~consecutive~~ following rectangles areas creates one byte of the private key.
+Apply more operations to obtain the results in byte range.**
 
 Hint mini-puzzle from the picture:
 ![mini-puzzle hint](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_BigHint.png)
