@@ -11,7 +11,8 @@ First time, this puzzle was published at the end of 2018 year. ***Puzzle represe
 Later in December of 2018, the Original Twitter hint was released [[2]](https://twitter.com/Zd3N/status/1077146640090316800):
 ```
 Puzzles' Hints Xmas Bundle. <BTCrypto L5> Sum of two consecutive following rectangles areas creates one byte of the private key.
-Apply more operations to obtain the results in byte range. <XIXOIO> Byte 0x77 is part of the private key. #HPPXMS Good luck! [/64] [#12] 
+Apply more operations to obtain the results in byte range. <XIXOIO> Byte 0x77 is part of the private key. #HPPXMS Good luck! [/64] [#12]
+<del> consecutive </del>
 ```
 Here i guess, only ```Sum of two consecutive following rectangles areas creates one byte of the private key. 
 Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
@@ -21,7 +22,7 @@ But later, after several years of puzzle being unsolved, ***the author released 
 "UNSOLVED for over 3 years because the original release was uncomplete! Relaunched on 12th of December 2021. My excuses to everyone!
 
 Past hint.
-(clarity edit: sum of two <del> consecutive </del> ~~consecutive~~ following rectangles...)
+(clarity edit: sum of two  ~~consecutive~~ following rectangles...)
 "
 ![FIXED LVL5 puzzle](https://github.com/HomelessPhD/Zden_LVL5/blob/c82beb668696d7f59aca16465ce408747a240b88/crypto5fix.png)
 
