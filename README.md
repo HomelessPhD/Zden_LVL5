@@ -73,7 +73,7 @@ Lets introduce some notation:
 
 ![Rectangles](https://github.com/HomelessPhD/Zden_LVL5/blob/7397f9e7de2f30295bbab28e4c843ec59fbe303b/pics/A_measure.png)
 
-Measuring the area for each: Outer, Inner, Outer - Inner (rectangular shell) are done via MATLAB code that i attached in 
+Measuring the area for each: Outer, Inner, Outer - Inner (rectangular shell) are done via MATLAB code that is attached in 
 "Analysis" folder here in github (this code also producec further analysis with Private Key synthesis). 
 The results are stored in *.csv file: *_A.csv ("Analysis\Results\").
 
