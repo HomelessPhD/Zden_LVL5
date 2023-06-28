@@ -63,7 +63,25 @@ Lets assume the numeration as given on the picture above:
       49 50 51 52 53 54 55 56
       57 58 59 60 61 62 63 64
 ```
-Then simply compute the areas of each rectangle: Outer( the white rectangular 
+Lets introduce some notation: 
+  - Outer (O) rectangular is a solid rectangular object bounded by exterinal border of the drawn rectangular shell
+    (what the white rectangle could be in case of no black area inside)
+  - Inner (I) rectangular is a solid rectangular object bounded by internal border of the drawn rectangular shell
+    (the black rectangle - only black pixels)
+  - Rectangular shell is the difference between Outer and Inner rectangles - white pixels in between (that is actually
+    drawn on the picture)
+
+![Rectangles](https://github.com/HomelessPhD/Zden_LVL5/blob/7397f9e7de2f30295bbab28e4c843ec59fbe303b/pics/A_measure.png)
+
+Measuring the area for each: Outer, Inner, Outer - Inner (rectangular shell) are done via MATLAB code that i attached in 
+"Analysis" folder here in github (this code also producec further analysis with Private Key synthesis). 
+The results are stored in *.csv file: *_A.csv ("Analysis\Results\").
+
+Here i've tried to interpret the white lines under rectangles:
+ - prefix "noLine" means i have not counted those 2 lines and areas are counted as is;
+ - prefix "minus" means i have substracted the lines length from an appropriate Outer rectangle values
+ - prefix "plus" means i have added the lines length to an appropriate Outer rectangle values
+ - prefix "multiply" means i have multiplied an appropriate Outer rectangle values to appropriate lines length
 
 In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume later 
 
