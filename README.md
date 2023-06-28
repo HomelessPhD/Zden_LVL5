@@ -83,7 +83,7 @@ Here i've tried to interpret the white lines under rectangles:
  - prefix "plus" means i have added the lines length to an appropriate Outer rectangle values
  - prefix "multiply" means i have multiplied an appropriate Outer rectangle values to appropriate lines length
 
-In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume later 
+In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume only 4 options here.... 
 
 ## P.S.
 
