@@ -1,15 +1,20 @@
 # Zden, cryptopuzle LVL.5. "...sum of two ~~consecutive~~ following rectangles..."
 
-This puzzle composed by Zden and published on his site [[1]](https://crypto.haluska.sk/) [[1']](https://crypto.haluska.sk/crypto5fix.png). This guy (or girl) known for constructing, funding and publishing different mostly algorithmical CryptoPuzzles (better check his site to understand what i mean). LVL5 (described here) is one of his yet unsolved puzzles.
+This puzzle composed by Zden and published on his site [[1]](https://crypto.haluska.sk/) [[1']](https://crypto.haluska.sk/crypto5fix.png). 
+This guy (or girl) known for constructing, funding and publishing different mostly algorithmical CryptoPuzzles (better check his site to 
+understand what i mean). LVL5 (described here) is one of his yet unsolved puzzles.
 
-First time, this puzzle was published at the end of 2018 year. Puzzle represented by a single *.PNG file and a statement: "Level 5 - Find the private key in this image" [[1''']](https://twitter.com/Zd3N/status/1060955171591766018).
+First time, this puzzle was published at the end of 2018 year. Puzzle represented by a single *.PNG file and a statement: 
+"Level 5 - Find the private key in this image" [[1''']](https://twitter.com/Zd3N/status/1060955171591766018).
 
 
 Later in December of 2018, the Original Twitter hint was released [[2]](https://twitter.com/Zd3N/status/1077146640090316800):
 ```
-Puzzles' Hints Xmas Bundle. <BTCrypto L5> Sum of two consecutive following rectangles areas creates one byte of the private key. Apply more operations to obtain the results in byte range. <XIXOIO> Byte 0x77 is part of the private key. #HPPXMS Good luck! [/64] [#12] 
+Puzzles' Hints Xmas Bundle. <BTCrypto L5> Sum of two consecutive following rectangles areas creates one byte of the private key.
+Apply more operations to obtain the results in byte range. <XIXOIO> Byte 0x77 is part of the private key. #HPPXMS Good luck! [/64] [#12] 
 ```
-Here i guess, only ```Sum of two consecutive following rectangles areas creates one byte of the private key. Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
+Here i guess, only ```Sum of two consecutive following rectangles areas creates one byte of the private key. 
+Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
 
 
 But later, after several years of puzzles being unsolved, the author released the update for puzzle with a statement: 
