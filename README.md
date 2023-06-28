@@ -21,7 +21,7 @@ But later, after several years of puzzle being unsolved, ***the author released 
 "UNSOLVED for over 3 years because the original release was uncomplete! Relaunched on 12th of December 2021. My excuses to everyone!
 
 Past hint.
-(clarity edit: sum of two ~~consecutive~~ following rectangles...)
+(clarity edit: sum of two <del> consecutive </del> ~~consecutive~~ following rectangles...)
 "
 ![FIXED LVL5 puzzle](https://github.com/HomelessPhD/Zden_LVL5/blob/c82beb668696d7f59aca16465ce408747a240b88/crypto5fix.png)
 
