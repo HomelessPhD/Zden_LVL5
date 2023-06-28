@@ -64,7 +64,7 @@ Lets assume the numeration as given on the picture above:
       57 58 59 60 61 62 63 64
 ```
 Lets introduce some notation: 
-  - Outer (O) rectangular is a solid rectangular object bounded by exterinal border of the drawn rectangular shell
+  - Outer (O) rectangular is a solid rectangular object bounded by external border of the drawn rectangular shell
     (what the white rectangle could be in case of no black area inside)
   - Inner (I) rectangular is a solid rectangular object bounded by internal border of the drawn rectangular shell
     (the black rectangle - only black pixels)
