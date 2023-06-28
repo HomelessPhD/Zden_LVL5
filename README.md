@@ -12,7 +12,6 @@ Later in December of 2018, the Original Twitter hint was released [[2]](https://
 ```
 Puzzles' Hints Xmas Bundle. <BTCrypto L5> Sum of two consecutive following rectangles areas creates one byte of the private key.
 Apply more operations to obtain the results in byte range. <XIXOIO> Byte 0x77 is part of the private key. #HPPXMS Good luck! [/64] [#12]
-<del> consecutive </del>
 ```
 Here i guess, only ```Sum of two consecutive following rectangles areas creates one byte of the private key. 
 Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
