@@ -123,10 +123,14 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 ### References:
 
 [1] Zden cryptopuzles - https://crypto.haluska.sk/
+
 [1'] Zdens' LVL5 cryptopuzle -  https://crypto.haluska.sk/crypto5fix.png
+
 [1'''] Originial puzzle releasing tweet (https://twitter.com/Zd3N/status/1060955171591766018)
 
 [2] Original hint - https://twitter.com/Zd3N/status/1077146640090316800
+
+[@] The prize stated to be here - https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7
 
 [*] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
