@@ -83,7 +83,7 @@ Here i've tried to interpret the white lines under rectangles:
  - prefix "noLine" means i have not counted those 2 lines and areas are counted as is;
  - prefix "minus" means i have substracted the lines length from an appropriate Outer rectangle values
  - prefix "plus" means i have added the lines length to an appropriate Outer rectangle values
- - prefix "multiply" means i have multiplied an appropriate Outer rectangle values to appropriate lines length
+ - prefix "multiply" means i have multiplied an appropriate Outer rectangle areas to appropriate lines length
 
 In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume only 4 options here:
  -  [1 + 2], [3 + 4], [5 + 6], [7 + 8], [9 + 10], ..., [61 + 62], [63 + 64]
