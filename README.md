@@ -4,7 +4,7 @@ This puzzle composed by Zden and published on his site [[1]](https://crypto.halu
 This guy (or girl) known for constructing, funding and publishing different mostly algorithmical CryptoPuzzles (better check his site to 
 understand what i mean). LVL5 (described here) is one of his yet unsolved puzzles.
 
-First time, this puzzle was published at the end of 2018 year. Puzzle represented by a single *.PNG file and a statement: 
+First time, this puzzle was published at the end of 2018 year. ***Puzzle represented by a single *.PNG file*** and a statement: 
 "Level 5 - Find the private key in this image" [[1''']](https://twitter.com/Zd3N/status/1060955171591766018).
 
 
@@ -17,7 +17,7 @@ Here i guess, only ```Sum of two consecutive following rectangles areas creates 
 Apply more operations to obtain the results in byte range.``` related to LVL5 puzzle.
 
 
-But later, after several years of puzzle being unsolved, the author released the update for puzzle with a statement: 
+But later, after several years of puzzle being unsolved, ***the author released the update*** for puzzle with a statement: 
 "UNSOLVED for over 3 years because the original release was uncomplete! Relaunched on 12th of December 2021. My excuses to everyone!
 
 Past hint.
@@ -25,8 +25,8 @@ Past hint.
 "
 ![FIXED LVL5 puzzle](https://github.com/HomelessPhD/Zden_LVL5/blob/c82beb668696d7f59aca16465ce408747a240b88/crypto5fix.png)
 
-Author **crossed out word** ```consecutive``` from the hint AND **added** several elements to the picture: **white line under the rectangle #40 with 17
-pixel length**, **white line under the rectangle #53 with 6 pixel length**, the **minipuzzle-HINT in the left bottom corner** of the image that is 
+Author ***crossed out word*** ```consecutive``` from the hint AND ***added*** several elements to the picture: ***white line under the rectangle #40 with 17
+pixel length***, ***white line under the rectangle #53 with 6 pixel length***, the ***minipuzzle-HINT in the left bottom corner*** of the image that is 
 shown below:
 
 ![LVL5 interesting spots](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_valuableSpots.png)
@@ -43,6 +43,29 @@ Hint mini-puzzle from the picture:
 ![mini-puzzle hint](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_BigHint.png)
 
 <TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
+
+## Evaluation of the areas
+
+BTC private key, in general, is a 256 bit integer value that could be coded by 32 bytes (or 64 hexadecimal digits).
+The main object on the puzzle picture is a series of 64 rectangular shells (difference between two cocentric outter and inner rectangles).
+
+The textual hint stated that each byte of private key is composed using "Sum of two ~~consecutive~~ following rectangles areas" 
+(my interpretation).
+
+Lets assume the numeration as given on the picture above:
+```
+      1   2  3  4  5  6  7  8
+      9  10 11 12 13 14 15 16
+      17 18 19 20 21 22 23 24
+      25 26 27 28 29 30 31 32
+      33 34 35 36 37 38 39 40
+      41 42 43 44 45 46 47 48
+      49 50 51 52 53 54 55 56
+      57 58 59 60 61 62 63 64
+```
+Then simply compute the areas of each rectangle: Outer( the white rectangular 
+
+In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume later 
 
 ## P.S.
 
