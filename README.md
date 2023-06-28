@@ -85,7 +85,29 @@ Here i've tried to interpret the white lines under rectangles:
  - prefix "plus" means i have added the lines length to an appropriate Outer rectangle values
  - prefix "multiply" means i have multiplied an appropriate Outer rectangle values to appropriate lines length
 
-In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume only 4 options here.... 
+In general, there are numerous ways to traverse this 2D array collecting 32 pairs. I will asssume only 4 options here:
+ -  [1 + 2], [3 + 4], [5 + 6], [7 + 8], [9 + 10], ..., [61 + 62], [63 + 64]
+ -  [1 + 9], [17 + 25], [33 + 41], [49 + 57], [2 + 10],...., [40 + 48], [56 + 64]
+ -  [1 + 9], [2 + 10], [3+11], [4+12],[5+13],[6+14],[7+15],[8+16],[17+25],...,[55+63],[56+64]
+ -  [1 + 2], [9+10], [17+18],[25+26],[33+34],[41+42],[49+50],[57+58],[3+4],...,[55+56],[63+64]
+
+I have tried these 4 options - with each rectangle (outter, inner, shell) area - that produced 12 lists of 32 integer
+values.
+
+Each resulting value (sume of areas of two rectangles or rectangular shell) in general goes outside of the BYTE (0-255)
+values range. Author stated that there is some transformation at the final stage (right now) that should pack this 
+integers into byte range. Here we go again, generally speaking there are infinite number of such tranformation exists.
+The most obvious are:
+ - Modulo operation: INTEGER_NUMBER % 256
+ - Dummy normalization: (INTEGER_NUMBER / max_number_in_list) * 255
+ - Another normalization: ( (INTEGER_NUMBER-min_number_in_list) / (max_number_in_list - min_number_in_list) )* 255
+
+I tried them all - resulting PrivateKeys (byte list transformed into hexadecimal notation) could be found 
+in *_keys.txt files. All produced ny the mentioned MATLAB script **crack_pzl.m**
+
+In order to verify the key i have used the script used in other my preoject - BrainWallet: **CRPT5FIX_Brute_electrum.py***
+
+
 
 ## P.S.
 
