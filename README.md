@@ -103,7 +103,7 @@ The most obvious are:
  - Another normalization: ( (INTEGER_NUMBER-min_number_in_list) / (max_number_in_list - min_number_in_list) )* 255
 
 I tried them all - resulting PrivateKeys (byte list transformed into hexadecimal notation) could be found 
-in *_keys.txt files. All produced ny the mentioned MATLAB script **crack_pzl.m**
+in *_keys.txt files. All produced by the mentioned MATLAB script **crack_pzl.m**
 
 In order to verify the key i have used the script used in other my preoject - BrainWallet: **CRPT5FIX_Brute_electrum.py***
 
