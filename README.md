@@ -25,8 +25,8 @@ Past hint.
 "
 ![FIXED LVL5 puzzle](https://github.com/HomelessPhD/Zden_LVL5/blob/c82beb668696d7f59aca16465ce408747a240b88/crypto5fix.png)
 
-He crossed out word ```consecutive``` from the hint AND added several elements to the picture: white line under the rectangle #40 with 17
-pixel length, white line under the rectangle #53 with 6 pixel length, the minipuzzle-HINT in the left bottom corner of the image that is 
+Author **crossed out word** ```consecutive``` from the hint AND **added** several elements to the picture: **white line under the rectangle #40 with 17
+pixel length**, **white line under the rectangle #53 with 6 pixel length**, the **minipuzzle-HINT in the left bottom corner** of the image that is 
 shown below:
 
 ![LVL5 interesting spots](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_valuableSpots.png)
