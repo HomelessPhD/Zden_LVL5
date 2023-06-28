@@ -105,7 +105,7 @@ The most obvious are:
 I tried them all - resulting PrivateKeys (byte list transformed into hexadecimal notation) could be found 
 in *_keys.txt files. All produced by the mentioned MATLAB script **crack_pzl.m**
 
-In order to verify the key i have used the script used in other my preoject - BrainWallet: **CRPT5FIX_Brute_electrum.py***
+In order to verify resulting keys i have reused the script from my previous project - BrainWallet: **CRPT5FIX_Brute_electrum.py***
 
 
 
