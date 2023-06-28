@@ -4,6 +4,8 @@ This puzzle composed by Zden and published on his site [[1]](https://crypto.halu
 This guy (or girl) known for constructing, funding and publishing different mostly algorithmical CryptoPuzzles (better check his site to 
 understand what i mean). LVL5 (described here) is one of his yet unsolved puzzles.
 
+The puzzle is stated to hold ***0.0055 BTC (~ 150$)*** - [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
+
 First time, this puzzle was published at the end of 2018 year. ***Puzzle represented by a single *.PNG file*** and a statement: 
 "Level 5 - Find the private key in this image" [[1''']](https://twitter.com/Zd3N/status/1060955171591766018).
 
@@ -106,6 +108,8 @@ I tried them all - resulting PrivateKeys (byte list transformed into hexadecimal
 in *_keys.txt files. All produced by the mentioned MATLAB script **crack_pzl.m**
 
 In order to verify resulting keys i have reused the script from my previous project - BrainWallet: **CRPT5FIX_Brute_electrum.py***
+(just to check if some addresses were also funded, anyway this step could be done a bit easier - without address balance verification
+because the goal address is known. It should be [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
 
 
 
