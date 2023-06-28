@@ -77,6 +77,8 @@ Measuring the area for each: Outer, Inner, Outer - Inner (rectangular shell) are
 "Analysis" folder here in github (this code also producec further analysis with Private Key synthesis). 
 The results are stored in *.csv file: *_A.csv ("Analysis\Results\").
 
+![measuring](https://github.com/HomelessPhD/Zden_LVL5/blob/6ad1701147e214027a23c48478bce25c20b8d555/pics/measuring.png)
+
 Here i've tried to interpret the white lines under rectangles:
  - prefix "noLine" means i have not counted those 2 lines and areas are counted as is;
  - prefix "minus" means i have substracted the lines length from an appropriate Outer rectangle values
