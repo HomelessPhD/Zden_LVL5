@@ -44,6 +44,8 @@ Apply more operations to obtain the results in byte range.**
 Hint mini-puzzle from the picture:
 ![mini-puzzle hint](https://github.com/HomelessPhD/Zden_LVL5/blob/6bdb5f55b918f7c589a55f906ba96ca16379ded4/pics/crypto5fix_BigHint.png)
 
+LXIV is 64 written in Roman Numeral notation - number closely related to puzzle....
+
 <TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
 
 ## Evaluation of the areas
