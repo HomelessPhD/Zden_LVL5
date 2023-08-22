@@ -49,6 +49,20 @@ LXIV is 64 written in Roman Numeral notation - number closely related to puzzle.
 This small picture could represent the arcitercture of each rectangle pointing the math behind rectangular objects geometry (sizes, width, heigh,...)
 ...maybe we should think of the "text" in this hint-picture as formula: ***[-1 * 10 + 64 /*/]*** or ***[-1 * x + 64 /x/]*** ???
 
+What about the numbers: 8 digits than "FIX" and another 8 digits.... vector column of 8 elements multiplied to vector row of 8 elements could form
+the 8x8 matrix (like the rectangular shaped in the puzzle), or they simply could be i,j - some numbers that should be applied to each column, row:
+
+```
+      0,1 0,1 0,1 0,2 0,2 0,1 0,1 0,1
+      9,1 9,1 9,1 9,2 9,2 9,1 9,1 9,1
+      1,1 1,1 1,1 1,2 1,2 1,1 1,1 1,1
+      1,1 1,1 1,1 1,2 1,2 1,1 1,1 1,1
+      1,1 1,1 1,1 1,2 1,2 1,1 1,1 1,1
+      8,1 8,1 8,1 8,2 8,2 8,1 8,1 8,1
+      1,1 1,1 1,1 1,2 1,2 1,1 1,1 1,1
+      9,1 9,1 9,1 9,2 9,2 9,1 9,1 9,1
+```
+
 <TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
 
 ## IMPORTANT NOTICE
