@@ -62,6 +62,7 @@ the 8x8 matrix (like the rectangular shaped in the puzzle), or they simply could
       1,1 1,1 1,1 1,2 1,2 1,1 1,1 1,1
       9,1 9,1 9,1 9,2 9,2 9,1 9,1 9,1
 ```
+May be the numbers in this hint means the begin and end of the private key, like: ***0x09111819????????????????????????????????????????????????11122111*** and given for verification of the solving, but that actually make no sense....
 
 <TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
 
