@@ -46,7 +46,21 @@ Hint mini-puzzle from the picture:
 
 LXIV is 64 written in Roman Numeral notation - number closely related to puzzle....
 
+This small picture could represent the arcitercture of each rectangle pointing the math behind rectangular objects geometry (sizes, width, heigh,...)
+...maybe we should think of the "text" in this hint-picture as formula: ***[-1 * 10 + 64 /*/]*** or ***[-1 * x + 64 /x/]*** ???
+
 <TO DO - decypher this hint (check previous puzzles from his site to get familliar with such mini-puzzles)>
+
+## IMPORTANT NOTICE
+The first thing i considered when saw the puzzle picture was: 64 rectangular shape is like 64 HEX digits of private key and
+so each rectangular shape should be somehow evaluated to [0 - 15] integer (HEX digit) to form the resulting private key.
+
+BUT, the hint: ***the sum of two following rectangles areas creates one byte***? If rectangular codes the hex digits two such digits
+forms the byte but not as straigh sum - its rather D1*16 + D2 and id not call it a sum. So if the author tried to hint us that this HEX
+approach is correct and each rectangles should be interpret as HEX digit so two following digits forms the byte - he made a bad job: after
+this hint those who initially could guessed that rectangles form the list of hex digits - would forget about that idea here be cause byte 
+is not a sum of hex digits. Thats why i moved to operating on ***SUM OF TWO RECTANGLES AREAS** making a byte - because of this
+***the sum of two following rectangles areas creates one byte*** ....
 
 ## Evaluation of the areas
 
@@ -109,9 +123,8 @@ The most obvious are:
 I tried them all - resulting PrivateKeys (byte list transformed into hexadecimal notation) could be found 
 in *_keys.txt files. All produced by the mentioned MATLAB script **crack_pzl.m**
 
-In order to verify resulting keys i have reused the script from my previous project - BrainWallet: **CRPT5FIX_Brute_electrum.py***
-(just to check if some addresses were also funded, anyway this step could be done a bit easier - without address balance verification
-because the goal address is known. It should be [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
+In order to verify resulting keys i composed python script: **CRPT5FIX_checkAddrs.py***
+(without address balance verification because the goal address is known. It should be [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
 
 
 
