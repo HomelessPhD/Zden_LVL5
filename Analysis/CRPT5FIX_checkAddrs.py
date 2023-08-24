@@ -90,7 +90,7 @@ for Ifn in range(0, len(file_names)):
                     print(f'{address_c}: {pk} | compressed')
                 address_unc = rp160hash_to_p2pkhAddress(pk_to_hash_unc_p2pkh(pk))
                 if address_unc == '1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7':
-                    print(f'{address_c}: {pk} | UNcompressed')
+                    print(f'{address_unc}: {pk} | UNcompressed')
     except Exception as ex:
         print(ex)
     finally:
