@@ -1,10 +1,10 @@
-# Zden, cryptopuzle LVL.5. "...sum of two ~~consecutive~~ following rectangles..."
+# [SOLVED it seems....] Zden, cryptopuzle LVL.5. "...sum of two ~~consecutive~~ following rectangles..."
 
 This puzzle composed by Zden and published on his site [[1]](https://crypto.haluska.sk/) [[1']](https://crypto.haluska.sk/crypto5fix.png). 
 This guy (or girl) known for constructing, funding and publishing different mostly algorithmical CryptoPuzzles (better check his site to 
 understand what i mean). LVL5 (described here) is one of his yet unsolved puzzles.
 
-The puzzle is stated to hold ***0.0055 BTC (~ 150$)*** - [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
+The puzzle is stated to hold ***0.0055 BTC*** (DRAINED already) - [1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7](https://www.blockchain.com/explorer/addresses/btc/1cryptoGeCRiTzVgxBQcKFFjSVydN1GW7)
 
 First time, this puzzle was published at the end of 2018 year. ***Puzzle represented by a single *.PNG file*** and a statement: 
 "Level 5 - Find the private key in this image" [[1''']](https://twitter.com/Zd3N/status/1060955171591766018).
